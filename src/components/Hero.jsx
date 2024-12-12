@@ -1,5 +1,7 @@
 import React from 'react'
 import HeroImg from '../assets/8.jpg'
+
+
 const Hero = () => {
   return (
     <section className='w-full mx-auto block'>
